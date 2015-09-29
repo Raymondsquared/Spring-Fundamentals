@@ -17,7 +17,7 @@ buildNumber.properties
 .mtj.tmp/
 
 # Package Files #
-*.jar
+/out/*.jar
 *.war
 *.ear
 
